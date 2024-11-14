@@ -1,6 +1,10 @@
 # english-for-designers1
-[Manifesto]
+[Manifesto] (manifesto.md)
+
 [Talk] 
+
 [Research]
+
 [Drafts]
+
 [Portfolio]
