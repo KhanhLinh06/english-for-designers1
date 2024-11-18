@@ -1,7 +1,7 @@
 # english-for-designers1
 [Manifesto](manifesto.md)
 
-[Talk] 
+[Talk](ENG design manifesto.pdf)
 
 [Drafts]
 
