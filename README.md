@@ -3,8 +3,6 @@
 
 [Talk] 
 
-[Research]
-
 [Drafts]
 
 [Portfolio]
