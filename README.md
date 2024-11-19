@@ -1,6 +1,6 @@
 # english-for-designers1
-[Manifesto](manifesto.md)
+✦ [Manifesto](manifesto.md)
 
-[Talk](designmanifesto.pdf)
+✦ [Talk](designmanifesto.pdf)
 
-[Portfolio](bioport.pdf)
+✦ [Portfolio](bioport.pdf)
