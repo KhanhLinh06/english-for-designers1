@@ -1,8 +1,6 @@
 # english-for-designers1
 [Manifesto](manifesto.md)
 
-[Talk](ENG design manifesto.pdf)
-
-[Drafts]
+[Talk](designmanifesto.pdf)
 
 [Portfolio](bioport.pdf)
