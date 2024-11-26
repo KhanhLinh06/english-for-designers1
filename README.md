@@ -3,6 +3,4 @@
 
 ✦ [Talk](designmanifesto.pdf)
 
-✦ [Bio Draft]
-
 ✦ [Portfolio](bioport.pdf)
