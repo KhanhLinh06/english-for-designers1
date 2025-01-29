@@ -1,4 +1,4 @@
-# english-for-designers1
+# english-for-designers
 ✦ [Manifesto](manifesto.md)
 
 ✦ [Talk](designmanifesto.pdf)
