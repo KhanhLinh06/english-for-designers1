@@ -4,3 +4,6 @@
 ✦ [Talk](designmanifesto.pdf)
 
 ✦ [Portfolio](luongportfolio.pdf)
+
+✦ [Case study]
+
