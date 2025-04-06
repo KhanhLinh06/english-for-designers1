@@ -1,7 +1,7 @@
 # english-for-designers
 ✦ [Manifesto](designmanifesto.pdf)
 
-✦ [Portfolio](luongportfolio.pdf)
+✦ [First Impression](luongportfolio.pdf)
 
 ✦ [Case study]
 
