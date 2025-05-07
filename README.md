@@ -3,6 +3,6 @@
 
 ✦ [First Impression](luongportfolio.pdf)
 
-✦ [Case study](casestudyy.doxs)
+✦ [Case study](casestudyy.docx)
 
 ✦ [Storytelling](storytelling.pdf)
